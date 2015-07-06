@@ -1,0 +1,3 @@
+*ConversationManager
+isCMConversation
+	^false

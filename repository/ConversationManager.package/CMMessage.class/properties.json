@@ -1,0 +1,16 @@
+{
+	"category" : "ConversationManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/25/2015 22:38",
+	"instvars" : [
+		"body",
+		"messageType",
+		"date" ],
+	"name" : "CMMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

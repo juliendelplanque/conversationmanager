@@ -1,0 +1,14 @@
+{
+	"category" : "ConversationManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/6/2015 21:26",
+	"instvars" : [
+		"directory" ],
+	"name" : "CMManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
