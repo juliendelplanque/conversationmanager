@@ -3,5 +3,5 @@ fromXMLNode: anXMLNode
 	^self new
 		body: (anXMLNode attributeAt: 'body');
 		messageType: (anXMLNode attributeAt: 'type');
-		date: (anXMLNode attributeAt: 'date');
+		date: (DateAndTime fromConversationString: (anXMLNode attributeAt: 'date'));
 		yourself
