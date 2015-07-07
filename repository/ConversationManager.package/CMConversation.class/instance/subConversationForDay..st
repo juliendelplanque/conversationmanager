@@ -1,0 +1,3 @@
+accessing
+subConversationForDay: aDateAndTimeObject
+	^self subConversationFrom: aDateAndTimeObject to: aDateAndTimeObject
